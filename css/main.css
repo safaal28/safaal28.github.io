@@ -42,6 +42,11 @@ ul.posts li {
     list-style: none;
 }
 
+section.homepage {
+    height: 100vh;
+    width; 100vw;
+}
+
 /* Home page */
 div.home {
     text.align: center: 
