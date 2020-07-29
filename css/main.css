@@ -41,3 +41,28 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* Home page */
+div.home {
+    text.align: center: 
+}
+/* Contact page */
+
+#contact-section {
+    padding-bottom:30px;
+}
+
+#contact-section a.nav-link {
+    padding-top: 35px;
+}
+
+.contact-text {
+    color: #191970;
+    font-size: 20px;
+    text-align: center;
+}
+
+.contact-icon {
+    margin-bottom: 20px;
+}
+
